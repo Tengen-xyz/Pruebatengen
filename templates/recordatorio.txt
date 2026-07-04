@@ -1,0 +1,9 @@
+Hola {nombre}, le saluda [NOMBRE DE SU EMPRESA].
+
+Le recordamos que tiene un saldo pendiente de ${monto} (ref. {referencia}).
+
+Puede regularizar su pago o acordar facilidades escribiendo a este mismo número
+o llamando al [TELÉFONO].
+
+Si ya realizó su pago, ignore este mensaje. Para dejar de recibir estos avisos,
+responda BAJA.

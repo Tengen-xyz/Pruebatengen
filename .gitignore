@@ -1,0 +1,13 @@
+# Credenciales — NUNCA subir al repo
+.env
+
+# Datos reales de clientes — mantener fuera del control de versiones
+data/contactos_reales.csv
+logs/*.csv
+logs/*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
