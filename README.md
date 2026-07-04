@@ -81,6 +81,10 @@ gastar dinero ni molestar a nadie.
 Este código usa Twilio. Cambiar de proveedor solo requiere reescribir
 `src/sender.py` — el resto queda igual.
 
+> 📲 **¿Vas a usar WhatsApp?** Sigue la [Guía paso a paso del Sandbox de
+> Twilio](GUIA_WHATSAPP.md) para hacer tu primer envío real a tu propio
+> teléfono en minutos.
+
 ---
 
 ## ✅ Buenas prácticas incluidas
